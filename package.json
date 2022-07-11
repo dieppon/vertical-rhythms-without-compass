@@ -1,0 +1,28 @@
+{
+  "name": "@dieppon/vertical-rhythms-without-compass",
+  "version": "1.0.0",
+  "description": "Compass Vertical Rhythms (with Rem) without the Compass dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dieppon/vertical-rhythms-without-compass.git"
+  },
+  "keywords": [
+    "vertical",
+    "rhythms",
+    "compass",
+    "standalone",
+    "css",
+    "sass",
+    "scss"
+  ],
+  "author": "Zell Liew <zellwk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dieppon/vertical-rhythms-without-compass/issues"
+  },
+  "homepage": "https://github.com/dieppon/vertical-rhythms-without-compass#readme"
+}
