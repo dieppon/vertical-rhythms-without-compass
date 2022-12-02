@@ -1,5 +1,5 @@
 {
-  "name": "@dieppon/vertical-rhythms-without-compass",
+  "name": "vertical-rhythms-without-compass",
   "version": "1.0.0",
   "description": "Compass Vertical Rhythms (with Rem) without the Compass dependency",
   "main": "index.js",
